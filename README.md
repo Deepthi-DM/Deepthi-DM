@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Deepthi-DM
-- 👀 I’m interested in tourism project
-- 🌱 I’m currently learning react class
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me chrome
-- 😄 Pronouns: 
-- ⚡ Fun fact: touism project
+
 - 
 
 <!---
